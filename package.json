@@ -7,10 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prettier": "prettier --check **/*.{js,jsx,ts,tsx}",
-    "test:unit": "jest",
-    "test:unit-only-changed": "jest --onlyChanged",
-    "test:e2e": "playwright test"
+    "prettier": "prettier --check **/*.{js,jsx,ts,tsx}"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
